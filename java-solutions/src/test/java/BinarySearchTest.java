@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+
+import BinarySearch.BinarySearch;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
